@@ -58,6 +58,3 @@ Temperature abnormalities also generate a warning.
 - Sohom Sar
 - Sayantika Ghosh
 - Subhajit Saha
-- Sohom Sar
-- Sayantika Ghosh
-- Subhajit Saha
